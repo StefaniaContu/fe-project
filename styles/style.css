@@ -74,11 +74,10 @@ p {
 }
 
 .project-description {
-  padding: 160px 30px 0;
+  padding: 160px 30px;
 }
 
 @media (max-width: 960px) {
-  h1,
   h2 {
     font-size: 44px;
   }
